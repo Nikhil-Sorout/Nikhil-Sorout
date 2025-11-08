@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Nikhil Sorout!<br>🚀 BTech CSE | App Developer | Problem Solver<br>💡 Passionate about building scalable applications and solving complex coding challenges<br>🛠️ Currently working on app development and backend technologies<br>💼 Co-founder of Finexos – helping businesses with IT & finance solutions<br>📚 Exploring DSA and Backend Development<br>🔧 Next up: Diving into DevOps!<br>📌 Always learning, building, and refining my craft!
+👋 Hi, I'm Nikhil Sorout!<br>🚀 BTech CSE | App Developer | Problem Solver<br>💡 Passionate about building scalable applications and solving complex coding challenges<br>🛠️ Currently working on app development and backend technologies<br>📚 Exploring DSA and Backend Development<br>🔧 Next up: Diving into DevOps!<br>📌 Always learning, building, and refining my craft!
 
 
 ## 🌐 Socials:
